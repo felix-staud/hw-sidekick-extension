@@ -7,7 +7,7 @@
 1. Clone git repo locally.
 1. Open cloned repo in terminal
 1. Run `npm i`
-1. Run `npm build:chrome`
+1. Run `npm run build:chrome`
 1. Open Chrome
 1. Navigate to `chrome://extensions/`
 1. Make sure to activate `Developer-Mode` (top right)
