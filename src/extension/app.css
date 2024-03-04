@@ -52,7 +52,7 @@
   --hlx-sk-label-font-size: 14px;
   --hlx-sk-dropdown-container-bg: rgba(250, 250, 250, .9);
   --hlx-sk-dropdown-container-bg-solid: rgb(250, 250, 250);
-  --hlx-sk-modal-overlay-bg: rgba(0,0,0, 0.5);
+  --hlx-sk-modal-overlay-bg: transparent;
   --hlx-sk-modal-bg-0: #e60016;
   --hlx-sk-modal-bg-1: #e67316;
   --hlx-sk-modal-color: white;
@@ -652,6 +652,8 @@
   background-color: var(--hlx-sk-bg);
   color: var(--hlx-sk-color);
   box-shadow: var(--hlx-sk-shadow);
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
 }
 
 .hlx-sk-overlay .modal p {
