@@ -12,7 +12,7 @@
 
 :host,
 :root {
-  --hlx-sk-bg: transparent;
+  --hlx-sk-bg: #0005;
   --hlx-sk-color: #000;
   --hlx-sk-accent: #1473e6;
   --hlx-sk-accent-hover: #0054b6;
@@ -641,6 +641,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  pointer-events: none;
 }
 
 .hlx-sk-overlay .modal {
