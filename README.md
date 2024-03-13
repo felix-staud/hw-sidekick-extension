@@ -1,5 +1,10 @@
 # HW Sidekick Extension
 
+## Requirements
+
+- [node & npm](https://nodejs.org/)
+- [Chrome](https://www.google.com/chrome/)
+
 ## How To Use
 
 > ! Chrome only
